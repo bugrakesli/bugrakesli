@@ -27,4 +27,4 @@ Currently studying at Ankara Yıldırım Beyazıt Üniversitesi. Experienced in 
 
 💼 [LinkedIn](https://linkedin.com/in/kesli/) -
 🐙 [GitHub](https://github.com/bugrakesli) - 
-✉️ [Email](mailto:omerbugraakesli@gmail.com)
+✉️ **Email:** omerbugraakesli@gmail.com
