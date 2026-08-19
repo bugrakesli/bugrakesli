@@ -18,10 +18,10 @@ Full-stack software developer building web applications, database architectures,
 
 Currently studying at Ankara Yıldırım Beyazıt Üniversitesi. Experienced in building comprehensive web systems, ranging from GIS-integrated applications with spatial data management to full-stack task tracking platforms. Recently completed a software engineering internship focused on robust backend architectures, advanced data imports/exports, and modern frontend frameworks.
 
-**Tech:** C/C++, C#, Python, JavaScript/TypeScript | React, Angular, Django, .NET 8 | PostgreSQL, SQL Server, Docker, Git
+**Tech:** C/C++, C#, Python, JavaScript/TypeScript | React, Angular, Django, .NET | PostgreSQL, SQL Server, Docker, Git
 
 ### Elsewhere on the Internet
 
-💼 [LinkedIn](linkedin.com/in/kesli/) - Professional background and connections
-🐙 [GitHub](github.com/bugrakesli) - Open source contributions and project repositories
-✉️ [Email](omerbugraakesli@gmail.com) - Direct contact for collaboration or questions
+💼 [LinkedIn](linkedin.com/in/kesli/) -
+🐙 [GitHub](github.com/bugrakesli) - 
+✉️ [Email](omerbugraakesli@gmail.com)
