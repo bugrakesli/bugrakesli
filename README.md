@@ -10,18 +10,11 @@ Full-stack software developer building web applications, database architectures,
 
 🚀 **Database & API Architecture** - Designing robust relational databases and scalable backend services
 
-### Project Highlights
-
-📋 **Giga** - Full-stack task management application developed for the Turkish Environment Agency using React, Django, and PostgreSQL
-
-🚢 **Ship Penalty System** - Web-based penalty management system utilizing Angular and .NET
-
-
 ### Background
 
 Currently studying at Ankara Yıldırım Beyazıt Üniversitesi. Experienced in building comprehensive web systems, ranging from GIS-integrated applications with spatial data management to full-stack task tracking platforms. Recently completed a software engineering internship focused on robust backend architectures, advanced data imports/exports, and modern frontend frameworks.
 
-**Tech:** C/C++, C#, Python, JavaScript/TypeScript | React, Angular, Django, .NET | PostgreSQL, SQL Server, Docker, Git
+**Tech:** C/C++, C#, Python, Java, JavaScript/TypeScript | React, Angular, Django, .NET | PostgreSQL, SQL Server, Docker, Git, Postman
 
 ### Elsewhere on the Internet
 
